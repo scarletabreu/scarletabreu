@@ -6,37 +6,61 @@
 
 <h3 align="center">Computer Science Engineering Student | Passionate about software development and machine learning 🧠💻</h3>
 
----
+<hr>
 
-✨ **About Me**  
-I'm a Computer Science Engineering student with a strong focus on software development and a deep interest in machine learning. I enjoy building projects that connect technology with personal well-being, and I’m currently exploring how artificial intelligence can enhance mobile app experiences.
+<h3>✨ About Me</h3>
+<p>
+  I'm a <strong>Computer Science Engineering</strong> student with a strong focus on <strong>software development</strong> and a growing interest in <strong>machine learning</strong>.  
+  I enjoy creating tech-driven solutions that have a positive impact, especially on personal well-being.  
+  Currently, I’m exploring how <strong>artificial intelligence</strong> can enhance mobile experiences through intuitive and functional interfaces.
+</p>
 
-🧘‍♀️ **Current Project:**  
-🎯 `Mantra` – A motivational quote app developed in `Kotlin`, integrating `Firebase`, the `Google Gemini API`, and modern Android tools.  
-I'm focused on creating positive experiences through the combination of AI and mobile development.
+<hr>
 
-🧠 **What I'm passionate about:**  
-- `Machine Learning` & `Artificial Intelligence`  
-- `Natural Language Processing (NLP)`  
-- `Native mobile apps` with `Kotlin`  
-- Clean and user-centered interface design
+<h3>🧘‍♀️ Current Project</h3>
+<p>
+  🎯 <strong>Mantra</strong> – A motivational quote app developed in <code>Kotlin</code>, integrating <code>Firebase</code>, the <code>Google Gemini API</code>, and modern Android tools.  
+  I'm focused on delivering meaningful experiences by combining <strong>AI</strong> and <strong>mobile development</strong>.
+</p>
 
-🔧 **Favorite Tech Stack & Tools:**  
-- **Languages:** `Kotlin`, `Python`, `C#`, `SQL`, `Java`, `C`, `Lua`  
-- **IDEs:** `Android Studio`, `IntelliJ IDEA`, `Rider`, `PyCharm`, `VS Code`  
-- **Databases:** `Firebase`, `SQL Server`, `MySQL Workbench`  
-- **Others:** `Git`, `Figma`
+<hr>
 
-📈 **Short-term Goals:**  
-- Build real-world solutions using `ML` and `NLP`  
-- Deepen my skills in `Natural Language Processing`  
-- Publish `Mantra` on the `Google Play Store` ✨
+<h3>🧠 What I'm passionate about</h3>
+<ul>
+  <li>🤖 <code>Machine Learning</code> & <code>Artificial Intelligence</code></li>
+  <li>🧠 <code>Natural Language Processing (NLP)</code></li>
+  <li>📲 <code>Native mobile apps</code> with <code>Kotlin</code></li>
+  <li>🎨 Clean, accessible, and user-centered interface design</li>
+</ul>
 
-📬 **Let’s connect:**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/scarlet-abreu-249610363)  
-- 📸 [Instagram](https://instagram.com/scarletabreu.dev)
+<hr>
 
----
+<h3>🔧 Favorite Tech Stack & Tools</h3>
+<ul>
+  <li><strong>Languages:</strong> <code>Kotlin</code>, <code>Python</code>, <code>C#</code>, <code>SQL</code>, <code>Java</code>, <code>C</code>, <code>Lua</code></li>
+  <li><strong>IDEs:</strong> <code>Android Studio</code>, <code>IntelliJ IDEA</code>, <code>Rider</code>, <code>PyCharm</code>, <code>VS Code</code></li>
+  <li><strong>Databases:</strong> <code>Firebase</code>, <code>SQL Server</code>, <code>MySQL Workbench</code></li>
+  <li><strong>Others:</strong> <code>Git</code>, <code>Figma</code></li>
+</ul>
+
+<hr>
+
+<h3>📈 Short-term Goals</h3>
+<ul>
+  <li>💼 Build real-world solutions using <code>ML</code> and <code>NLP</code></li>
+  <li>🧠 Deepen my skills in <code>Natural Language Processing</code></li>
+  <li>🚀 Publish <strong>Mantra</strong> on the <strong>Google Play Store</strong></li>
+</ul>
+
+<hr>
+
+<h3>📬 Let’s connect</h3>
+<ul>
+  <li>💼 <a href="https://www.linkedin.com/in/scarlet-abreu-249610363" target="_blank">LinkedIn</a></li>
+  <li>📸 <a href="https://instagram.com/scarletabreu.dev" target="_blank">Instagram</a></li>
+</ul>
+
+<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scarletabreu&show_icons=true&theme=tokyonight" alt="GitHub stats" />

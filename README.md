@@ -40,7 +40,7 @@
   <li><strong>Lenguajes:</strong> Kotlin, Python, C#, SQL, Java, C, Lua</li>
   <li><strong>Entornos de desarrollo:</strong> Android Studio, IntelliJ IDEA, Rider, PyCharm, Visual Studio Code</li>
   <li><strong>Bases de datos:</strong> Firebase, SQL Server, MySQL Workbench</li>
-  <li><strong>Otras herramientas:</strong> Git, Markdown, Figma</li>
+  <li><strong>Otras herramientas:</strong> Git, Figma</li>
 </ul>
 
 <hr>

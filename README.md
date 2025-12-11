@@ -56,9 +56,10 @@
 </ul>
 
 <hr>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scarletabreu&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scarletabreu&theme=tokyonight" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarletabreu&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scarletabreu&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scarletabreu&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scarletabreu&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=scarletabreu&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scarletabreu&theme=tokyonight&utcOffset=-4" />
 </div>

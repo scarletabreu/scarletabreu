@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Hi!+I'm+Scarlet+%E2%9C%A8;Welcome+to+my+GitHub!;Mobile+Dev+%26+ML+Enthusiast+%F0%9F%A4%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Hi!+I'm+Scarlet+%E2%9C%A8;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </a>
 </h1>
 <h3 align="center">Computer Science Engineering Student | Mobile Development & Machine Learning Enthusiast 📱🧠</h3>

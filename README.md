@@ -47,7 +47,7 @@
 
 <h3>📬 Let's connect</h3>
 <ul>
-  <li>💼 <a href="https://www.linkedin.com/in/scarlet-abreu-249610363" target="_blank">LinkedIn</a></li>
+  <li>💼 <a href="www.linkedin.com/in/scarlet-abreu" target="_blank">LinkedIn</a></li>
   <li>📸 <a href="https://instagram.com/scarletabreu.dev" target="_blank">Instagram</a></li>
 </ul>
 <hr>
